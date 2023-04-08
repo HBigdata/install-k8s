@@ -1,6 +1,6 @@
 ## k8s 一键部署
 
-这里只是简单的讲解快速部署的步骤，细节讲解，可以参考我之前的文章：[【云原生】k8s 一键部署（ansible）]([https://liugp.blog.csdn.net/article/details/128691906](https://mp.weixin.qq.com/s?__biz=MzI3MDM5NjgwNg==&mid=2247486749&idx=1&sn=14949d4e9b4e7246bdb3157cadd74bbd&chksm=ead0f1f4dda778e27232369bf3392e4eb0cb400fe8074cc9a29339eed30e6ca487af28edb369#rd))
+这里只是简单的讲解快速部署的步骤，细节讲解，可以参考我之前的文章：[【云原生】k8s 一键部署（ansible）](https://mp.weixin.qq.com/s?__biz=MzI3MDM5NjgwNg==&mid=2247486749&idx=1&sn=14949d4e9b4e7246bdb3157cadd74bbd&chksm=ead0f1f4dda778e27232369bf3392e4eb0cb400fe8074cc9a29339eed30e6ca487af28edb369#rd)
 
 ### 1）基于ansible 一键部署k8s流程图
 ![输入图片说明](https://gitee.com/hadoop-bigdata/install-k8s/raw/master/images/1image.png)
